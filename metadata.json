@@ -1,0 +1,6 @@
+{
+  "name": "Abraço - Fotos com IA por Temas",
+  "description": "Plataforma de composição de fotos afetivas por IA com temas emocionantes, sistema de créditos, prévias com marca d'água e pagamento via Mercado Pago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
